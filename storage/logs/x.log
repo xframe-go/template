@@ -1,0 +1,12 @@
+{"time":"2025-03-03T18:45:19.056614+08:00","level":"INFO","msg":"doing"}
+{"time":"2025-03-03T18:45:19.057214+08:00","level":"WARN","msg":"current env is","!BADKEY":"development"}
+{"time":"2025-03-03T18:45:19.294827+08:00","level":"INFO","msg":"doing"}
+{"time":"2025-03-03T18:45:19.294918+08:00","level":"WARN","msg":"current env is","!BADKEY":"development"}
+{"time":"2025-03-03T18:45:19.465518+08:00","level":"INFO","msg":"doing"}
+{"time":"2025-03-03T18:45:19.465567+08:00","level":"WARN","msg":"current env is","!BADKEY":"development"}
+{"time":"2025-03-03T18:45:19.654969+08:00","level":"INFO","msg":"doing"}
+{"time":"2025-03-03T18:45:19.655096+08:00","level":"WARN","msg":"current env is","!BADKEY":"development"}
+{"time":"2025-03-03T18:45:19.853941+08:00","level":"INFO","msg":"doing"}
+{"time":"2025-03-03T18:45:19.854173+08:00","level":"WARN","msg":"current env is","!BADKEY":"development"}
+{"time":"2025-03-03T18:45:20.018578+08:00","level":"INFO","msg":"doing"}
+{"time":"2025-03-03T18:45:20.018762+08:00","level":"WARN","msg":"current env is","!BADKEY":"development"}
